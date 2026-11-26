@@ -27,7 +27,7 @@ export const Navbar = () => {
         {/* Right Navigation */}
         <div className="flex items-center gap-6">
           <Link
-            to="/newadd"
+            to="/new-listing"
             className="text-sm font-semibold text-gray-700 hover:bg-gray-100 px-4 py-2 rounded-full"
           >
             Airbnb your home

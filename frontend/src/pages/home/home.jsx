@@ -1,9 +1,10 @@
 import React from "react";
-import Category from "./category";
+import { Listing } from "./listing";
+
 export const Home = () => {
   return (
     <>
-      <Category />
+      <Listing />
     </>
   );
 };
